@@ -1,0 +1,3 @@
+Я изучил работу 'https://github.com/RusinVladislav/homework_21.git'
+
+Признаки плохих запахов в коде не обнаружил
